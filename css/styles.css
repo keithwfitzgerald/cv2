@@ -1,0 +1,23 @@
+
+body {
+  background-color: cornsilk;
+}
+
+
+
+hr {
+  border-color: deeppink;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 10%;
+
+}
+
+h3 {
+  color: mediumaquamarine;
+}
+
+h1 {
+  color: mediumaquamarine;
+}
